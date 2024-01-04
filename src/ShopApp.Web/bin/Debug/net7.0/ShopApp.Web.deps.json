@@ -7,14 +7,53 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ShopApp.Web/1.0.0": {
+        "dependencies": {
+          "ShopApp,Service": "1.0.0"
+        },
         "runtime": {
           "ShopApp.Web.dll": {}
+        }
+      },
+      "ShopApp,Service/1.0.0": {
+        "dependencies": {
+          "ShopApp.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "ShopApp,Service.dll": {}
+        }
+      },
+      "ShopApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "ShopApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ShopApp.DataAccess.dll": {}
+        }
+      },
+      "ShopApp.Domain/1.0.0": {
+        "runtime": {
+          "ShopApp.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ShopApp.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopApp,Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopApp.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

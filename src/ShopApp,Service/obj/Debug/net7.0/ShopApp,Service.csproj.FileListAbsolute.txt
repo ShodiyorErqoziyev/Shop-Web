@@ -1,0 +1,17 @@
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp,Service.deps.json
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp,Service.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp,Service.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp.DataAccess.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp.Domain.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp.DataAccess.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\bin\Debug\net7.0\ShopApp.Domain.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.csproj.AssemblyReference.cache
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.AssemblyInfoInputs.cache
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.AssemblyInfo.cs
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.csproj.CoreCompileInputs.cache
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.csproj.CopyComplete
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\refint\ShopApp,Service.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ShopApp,Service.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp,Service\obj\Debug\net7.0\ref\ShopApp,Service.dll

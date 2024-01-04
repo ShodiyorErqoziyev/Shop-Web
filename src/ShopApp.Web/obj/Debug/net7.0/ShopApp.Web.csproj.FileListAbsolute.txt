@@ -29,3 +29,10 @@ C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\obj\Debug\net7.0\ref
 C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\obj\Debug\net7.0\ShopApp.Web.pdb
 C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\obj\Debug\net7.0\ShopApp.Web.genruntimeconfig.cache
 C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\obj\Debug\net7.0\ref\ShopApp.Web.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp,Service.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp.DataAccess.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp.Domain.dll
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp,Service.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp.DataAccess.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\bin\Debug\net7.0\ShopApp.Domain.pdb
+C:\Users\Shodiyor\OneDrive\Desktop\Shop-Web\src\ShopApp.Web\obj\Debug\net7.0\ShopApp.Web.csproj.CopyComplete
