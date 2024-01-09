@@ -14,4 +14,22 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\Admins\" />
+    <Folder Include="Interfaces\Brands\" />
+    <Folder Include="Interfaces\Categories\" />
+    <Folder Include="Interfaces\Discounts\" />
+    <Folder Include="Interfaces\Users\" />
+    <Folder Include="Interfaces\Products\" />
+    <Folder Include="Interfaces\Payments\" />
+    <Folder Include="Interfaces\Orders\" />
+    <Folder Include="Repositories\Admins\" />
+    <Folder Include="Repositories\Brands\" />
+    <Folder Include="Repositories\Categories\" />
+    <Folder Include="Repositories\Users\" />
+    <Folder Include="Repositories\Products\" />
+    <Folder Include="Repositories\Payments\" />
+    <Folder Include="Repositories\Orders\" />
+  </ItemGroup>
+
 </Project>
